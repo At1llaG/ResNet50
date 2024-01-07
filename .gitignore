@@ -5,3 +5,5 @@ model/
 datasets/
 data-split/
 main.ipynb
+.git
+.gitignore
