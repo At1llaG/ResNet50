@@ -13,4 +13,7 @@ myenv/*
 !myenv/pyvenv.cfg
 
 
-model/saved_model/*
+model/saved_model/variables/*
+!model/saved_model/variables/variables.index
+
+
