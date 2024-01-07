@@ -1,9 +1,15 @@
-myenv/
-model/
+
+
 main.ipynb
 dogi1.ipynb
-main.ipynb
 
 
-/myenv/
+
+# Ignore all contents of myenv
+#/myenv/
+myenv/*
+
+# Except myenv itself
+!myenv
+
 
