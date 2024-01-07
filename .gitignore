@@ -1,19 +1,5 @@
-
-
-main.ipynb
-dogi1.ipynb
 dogi1-copy.ipynb
-
-# Ignore all contents of myenv
-#/myenv/
 myenv/*
-
-# Except myenv itself
-!myenv
 !myenv/pyvenv.cfg
-
-
 model/saved_model/variables/*
 !model/saved_model/variables/variables.index
-
-
