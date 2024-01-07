@@ -11,5 +11,6 @@ myenv/*
 
 # Except myenv itself
 !myenv
+!myenv/pyvenv.cfg
 
 
