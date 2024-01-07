@@ -1,10 +1,6 @@
 myenv/
 model/
 data-split/
-<<<<<<< HEAD
 main.ipynb
-=======
+dogi1.ipynb
 main.ipynb
-.git
-.gitignore
->>>>>>> e1bfd7c37933e3e7c0a5597c3b2b7ab339bcd36b
