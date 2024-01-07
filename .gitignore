@@ -2,7 +2,7 @@
 
 main.ipynb
 dogi1.ipynb
-
+dogi1-copy.ipynb
 
 # Ignore all contents of myenv
 #/myenv/
@@ -13,3 +13,4 @@ myenv/*
 !myenv/pyvenv.cfg
 
 
+model/saved_model/*
